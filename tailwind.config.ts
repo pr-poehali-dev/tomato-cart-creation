@@ -61,6 +61,12 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				tomato: {
+					red: '#D32F2F',
+					green: '#4CAF50',
+					brown: '#8D6E63',
+					cream: '#FFF3E0'
 				}
 			},
 			borderRadius: {
